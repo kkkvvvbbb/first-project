@@ -162,7 +162,6 @@ graph LR;
 %% описание схемы
 untracked -- "git add" --> staged;
 staged -- "git commit -m 'some text'" --> tracked/comitted;
-
 ```
 
 
